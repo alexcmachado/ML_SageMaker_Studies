@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+boto3
+sagemaker
+mxnet
+seaborn
