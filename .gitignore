@@ -4,3 +4,5 @@ venv
 data_moon
 __pycache__
 json_energy_data
+__MACOSX
+data
