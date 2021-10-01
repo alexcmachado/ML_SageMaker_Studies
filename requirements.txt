@@ -1,8 +1,8 @@
+sagemaker==1.72.0
 pandas
 numpy
 matplotlib
 boto3
-sagemaker
 mxnet
 seaborn
 sklearn
